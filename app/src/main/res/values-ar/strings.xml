@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="tv8">تحديث</string>
+    <string name="tv1">مطور أندرويد</string>
+    <string name="tv2">الاسم:</string>
+    <string name="tv3">شهد محمد</string>
+    <string name="tv4">العمر:</string>
+    <string name="tv5">20</string>
+    <string name="tv6">البريد الإلكتروني:</string>
+    <string name="tv7">shahdgaballahh@gmail.com</string>
+
+</resources>

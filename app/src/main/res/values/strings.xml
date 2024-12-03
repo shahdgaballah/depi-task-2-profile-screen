@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">My Application2</string>
+    <string name="tv8">UPDATE</string>
+    <string name="tv1">Android Developer</string>
+    <string name="tv2">Name:</string>
+    <string name="tv3">shahd muhammed</string>
+    <string name="tv4">Age:</string>
+    <string name="tv5">20\n</string>
+    <string name="tv6">E-mail:</string>
+    <string name="tv7" translatable="false">shahdgaballahh@gmail.com</string>
+</resources>
